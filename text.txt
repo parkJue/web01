@@ -1,1 +1,0 @@
-gitignore 연습 중
